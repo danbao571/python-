@@ -1,0 +1,3 @@
+C:\Program Files\Python37\python.exe" C:/Users/Administrator.USER-20180901OE/Desktop/刘永杰/基础练习/35-文件的不同读取操作.py
+0rftjdhg
+水果吧说呆瓜
